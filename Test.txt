@@ -1,3 +1,14 @@
 Okay, this is just a file.
 
+<<<<<<< HEAD
 Edited in Git
+=======
+
+Edited in Github
+
+
+Edited again in Github  for testing reset with local changes
+
+
+Editing again
+>>>>>>> origin
