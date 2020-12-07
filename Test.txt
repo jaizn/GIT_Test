@@ -2,3 +2,6 @@ Okay, this is just a file.
 
 
 Edited in Github
+
+
+Edited again in Github  for testing reset with local changes
